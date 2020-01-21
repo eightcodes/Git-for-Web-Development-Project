@@ -42,4 +42,4 @@
     2. What happens when an element is positioned absolutely? the element is taken out of flow; other elements are positioned as if it did not exist
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default.. block-level (<address><ol><nav>), inline elements (button, input)
-    5. In your own words, explain the box model. What is the fix for the box model?
+    5. In your own words, explain the box model. What is the fix for the box model? the box model is pattterns for positioning elements, padding, margin, width, hieght... the fix is border-box;
